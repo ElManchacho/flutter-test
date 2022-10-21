@@ -1,1 +1,0 @@
-# Src folder for flutter installation
