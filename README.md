@@ -80,7 +80,9 @@ and click the second section (among the 4 headers, 'Composants individuels' on t
 
 ![Capture](https://user-images.githubusercontent.com/74706889/197216295-1f6253e3-bccc-4a9d-9eb8-3059cdddd027.PNG)
 
+### 7 - Rerun `flutter doctor`
 
+##### With all those steps, your installation should be alright (at least mine was OK)
 
 # Ressources
 
