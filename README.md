@@ -6,6 +6,8 @@
 
 #### 2 - Run `git clone https://github.com/flutter/flutter.git -b stable`
 
+I had an issue with the computer of my company (probably due to security rules) and the clone command were never ending :
+
 #### 2(bis) - If the last cloning command didn't work properly :
 
 You can always copy paste and extract the folder after doawnloading it here : https://docs.flutter.dev/get-started/install/windows
