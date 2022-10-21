@@ -22,10 +22,9 @@ Version installed for this test was downloaded here : https://storage.googleapis
 
 #### 6 - Run `flutter doctor` (or `flutter doctor --android-licenses` if the cmdlet advise you to and accept all licenses) in the `src` folder to check if all the software dependencies are installed
 
-
-```bash
 It will look like this : 
 
+```bash
 PS C:\windows\system32> flutter doctor
 Doctor summary (to see all details, run flutter doctor -v):
 [√] Flutter (Channel stable, 3.3.5, on Microsoft Windows [version 10.0.19042.2130], locale fr-FR)
