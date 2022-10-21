@@ -53,9 +53,29 @@ Doctor summary (to see all details, run flutter doctor -v):
 
 If you found the 'cmdline-tools' error, follow this tutorial : https://www.fluttercampus.com/guide/202/cmdline-tools-component-is-missing-error-flutter/
 
-If you find the '' error, relaunch the Visual Studio Installer :
+If you find the
+```bash
+[!] Visual Studio - develop for Windows (Visual Studio Community 2022 17.3.6)
+    X Visual Studio is missing necessary components. Please re-run the Visual Studio installer for the "Desktop
+      development with C++" workload, and include these components:
+        MSVC v142 - VS 2019 C++ x64/x86 build tools
+         - If there are multiple build tool versions available, install the latest
+        C++ CMake tools for Windows
+        Windows 10 SDK
+```
+error, relaunch the Visual Studio Installer :
 
-and click '' and search '' in the '' section :
+![Capture 1](https://user-images.githubusercontent.com/74706889/197215575-7ebc2794-cefb-41ee-b09a-da8c7b535b66.PNG)
+
+Modify the current installation (page corresponding to picture below should appear) :
+
+![Capture 2](https://user-images.githubusercontent.com/74706889/197215682-8ced2c39-b6fc-42a6-8b06-08b9b3e61c6b.PNG)
+
+and click the second section (amon the 4 headers, 'Composants individuels' on the picture, or 'Individual compenents' on an english installation) and search the required module(s), 'MSVC v142 - VS 2019 C++ x64/x86 build tools' in the previous error message :
+
+![Capture](https://user-images.githubusercontent.com/74706889/197216295-1f6253e3-bccc-4a9d-9eb8-3059cdddd027.PNG)
+
+
 
 # Ressources
 
