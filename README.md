@@ -22,6 +22,8 @@ Version installed for this test was downloaded here : https://storage.googleapis
 
 #### 6 - Run `flutter doctor` (or `flutter doctor --android-licenses` if the cmdlet advise you to and accept all licenses) in the `src` folder to check if all the software dependencies are installed
 
+#### 6.5 - If you don't have everthing already installed, then g oahead and install it :
+
 It will look like this : 
 
 ```bash
@@ -71,7 +73,7 @@ Modify the current installation (page corresponding to picture below should appe
 
 ![Capture 2](https://user-images.githubusercontent.com/74706889/197215682-8ced2c39-b6fc-42a6-8b06-08b9b3e61c6b.PNG)
 
-and click the second section (amon the 4 headers, 'Composants individuels' on the picture, or 'Individual compenents' on an english installation) and search the required module(s), 'MSVC v142 - VS 2019 C++ x64/x86 build tools' in the previous error message :
+and click the second section (among the 4 headers, 'Composants individuels' on the picture, or 'Individual compenents' on an english installation) and search the required module(s), 'MSVC v142 - VS 2019 C++ x64/x86 build tools' in the previous error message :
 
 ![Capture](https://user-images.githubusercontent.com/74706889/197216295-1f6253e3-bccc-4a9d-9eb8-3059cdddd027.PNG)
 
