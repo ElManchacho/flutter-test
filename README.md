@@ -53,6 +53,10 @@ Doctor summary (to see all details, run flutter doctor -v):
 
 If you found the 'cmdline-tools' error, follow this tutorial : https://www.fluttercampus.com/guide/202/cmdline-tools-component-is-missing-error-flutter/
 
+If you find the '' error, relaunch the Visual Studio Installer :
+
+and click '' and search '' in the '' section :
+
 # Ressources
 
 ## Documentation
