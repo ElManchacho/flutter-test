@@ -73,6 +73,9 @@ Modify the current installation (page corresponding to picture below should appe
 
 ![Capture 2](https://user-images.githubusercontent.com/74706889/197215682-8ced2c39-b6fc-42a6-8b06-08b9b3e61c6b.PNG)
 
+and be sure to have the following Workload (or "Charge de travail" in the following picture) :
+![Capture(1)](https://user-images.githubusercontent.com/74706889/197223455-f8a5dbe5-35e0-43e9-a2ba-c8f02220eeaa.PNG)
+
 and click the second section (among the 4 headers, 'Composants individuels' on the picture, or 'Individual compenents' on an english installation) and search the required module(s), 'MSVC v142 - VS 2019 C++ x64/x86 build tools' in the previous error message :
 
 ![Capture](https://user-images.githubusercontent.com/74706889/197216295-1f6253e3-bccc-4a9d-9eb8-3059cdddd027.PNG)
