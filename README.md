@@ -84,6 +84,10 @@ and click the second section (among the 4 headers, 'Composants individuels' on t
 
 ##### With all those steps, your installation should be alright (at least mine was OK)
 
+### 8 - Install the VSCode Flutter extension
+
+##### My computer refused to install it for security reasons, so I used Android Studio instead, and the application is running properly
+
 # Ressources
 
 ## Documentation
