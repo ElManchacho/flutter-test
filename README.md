@@ -1,5 +1,10 @@
 # flutter-test
 
+## What am I working on right now on flutter ?
+
+##### I am currently trying to work on the following repository app : https://github.com/iampawan/FlutterWithFirebase
+
+
 ## Install Flutter
 
 #### 1 - Create a the `src` folder at the root of you disk (with path like `C:\src\`) and open a powershell terminal in it
