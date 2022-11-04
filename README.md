@@ -2,7 +2,13 @@
 
 ## What am I working on right now on flutter ?
 
+##### I am making the basic flutter tutorials.
+
+
+## What is suspended ?
+
 ##### I am currently trying to work on the following repository app : https://github.com/iampawan/FlutterWithFirebase
+##### --> It seems that the proejct is depreciated, and I find myself unable to refactor it, so i can't work on it now.
 
 
 ## Install Flutter
